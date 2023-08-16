@@ -7,7 +7,7 @@ import NotFound from '../Pages/NotFound/NotFound'
 import './App.css'
 import NavBar from '../Components/NavBar/NavBar'
 import Layout from '../Components/Layout/Layout'
-import Home from '../Pages/Home/home'
+import Home from '../Pages/Home/Home'
 import CheckOut from '../Components/CheckOut/CheckOut'
 import Register from '../Pages/Register/Register'
 
