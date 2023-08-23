@@ -46,7 +46,7 @@ const renderIcon = (_id) => {
             <img className='w-full h-full object-cover rounded-lg' src={item.item.image} alt={item.name}></img>
            {renderIcon(item.item._id)}
         </figure>
-        <p className='flex justify-between'>
+        <p className='flex justify-between items-center'>
         <span className='text-sm font-light'>{item.item.name}</span>
         <span className='text-lg font-medium'>${item.item.price}</span>
         </p>
